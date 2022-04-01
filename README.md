@@ -44,4 +44,4 @@ This webpage has some simple functions as below:
 ![This is the screenshot with "middle" size that the width of screen is between 768px and 992px](./assets/images/screenshot_middle.png)
 
 ### 992px < Screen (Large Version)
-![This is the screenshot with "middle" size that the width of screen is greater than 992px](./assets/images/screenshot_large.png.png)
+![This is the screenshot with "middle" size that the width of screen is greater than 992px](./assets/images/screenshot_large.png)
