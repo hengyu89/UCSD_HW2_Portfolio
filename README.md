@@ -35,13 +35,13 @@ This webpage has some simple functions as below:
 
 * It has a responsive layout that adapts to viewer's viewport. Which exactly separated with width "Screen<768px" "768px < Screen < 992px" "992px < Screen". Three different version.
 
-## Screenshot
+## Screenshot with three different widths.
 
-### Screen<768px
+### Screen<768px (Small Version)
 ![This is the screenshot with "small" size that the width of screen is smaller than 768px](./assets/images/screenshot_small.png)
 
-### 768px < Screen < 992px
+### 768px < Screen < 992px (Middle Version)
 ![This is the screenshot with "middle" size that the width of screen is between 768px and 992px](./assets/images/screenshot_middle.png)
 
-### 992px < Screen
+### 992px < Screen (Large Version)
 ![This is the screenshot with "middle" size that the width of screen is greater than 992px](./assets/images/screenshot_large.png.png)
