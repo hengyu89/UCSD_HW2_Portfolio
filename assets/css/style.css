@@ -106,6 +106,27 @@ article a {
 }
 
 /* Class area */
+.top-bgi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 0;
+}
+
+.avatar-info {
+    width:30%;
+    display: flex;
+    flex-direction: column;
+    margin:10rem auto auto auto;
+}
+
+.avatar-info li {
+    color: var(--base_color4);
+    border-bottom: solid var(--base_color2);
+    font-weight: bold;
+}
+
 .left-side {
     width: 25%;
     text-align: right;
@@ -192,6 +213,19 @@ article a {
 }
 
 /* id area (Specifically for explanation to some button not working as expected) */
+#myphoto {
+    height: 20rem;
+    position: absolute;
+    top: 5rem;
+    right: 10rem;
+    border-radius: 50%;
+    filter: drop-shadow(10px 10px 5px var(--base_color2))
+}
+
+#text-info {
+    color: var(--base_color5)
+}
+
 span[resume-tooltip] {
     position: relative;
     cursor:pointer;
@@ -237,6 +271,11 @@ span[contact-phone]:hover::after {
         flex-wrap: wrap;
     }
 
+    .avatar-info {
+        width: 50%;
+        margin: 10rem auto auto 15%;
+    }
+
     .left-side {
         width: 100%;
         text-align: left;
@@ -260,6 +299,12 @@ span[contact-phone]:hover::after {
     header {
         flex-direction: column;
     }
+
+    .avatar-info {
+        
+        margin: 10rem auto auto 10%;
+    }
+
     .part-image-size {
         width: 100%;
     }
