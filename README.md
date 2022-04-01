@@ -11,7 +11,9 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ## What I've done
 
-So in this repository, I create a portfolio of mine, which includes five areas:
+I followed the whole requirements in the assignment "README.md" file, and here are some typical details to explain.
+
+In this repository, I create a portfolio of mine, which includes five areas:
 
 * Top bar with a navigation.
 
